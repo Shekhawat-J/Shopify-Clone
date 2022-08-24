@@ -1,6 +1,6 @@
 # Important Link
 
-[LIVE Link](https://rode-ui.netlify.app/)
+[LIVE Link](https://shopify-home-page.netlify.app/)
 
 <br>
 
